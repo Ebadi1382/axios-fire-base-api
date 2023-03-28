@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 0 auto;
+}
+.product-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 2rem;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .2),-5px -5px 10px rgba(0, 0, 0, .2);
+    margin-top: 2rem;
+}
